@@ -1,0 +1,9 @@
+flask
+flask-cors
+pillow
+transformers
+torch
+torchvision
+gtts
+pydub
+werkzeug
