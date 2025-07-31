@@ -8,3 +8,4 @@ gtts
 pydub
 werkzeug
 python-dotenv
+streamlit-lottie
